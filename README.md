@@ -1,4 +1,4 @@
-# Employee Resource Management: End-to-End Data Science Project
+# Employee Resource Management: End-to-End Data Analytics Project
 
 This repository documents a 6-phase data science journey, transforming a raw, "dirty" employee dataset into a predictive tool for organizational decision-making.
 
